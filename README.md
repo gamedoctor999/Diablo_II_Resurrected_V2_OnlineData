@@ -1,0 +1,2 @@
+# Diablo_II_Resurrected_V2_OnlineData
+用於存取Diablo_II_Resurrected_V2 所需的靜態線上資料
